@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .no-scroll {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+  .agenda-font {
+    font-family: 'Oxanium', cursive;
+  }
+
+  .title-font {
+    font-family: 'Croissant One', cursive;
+  }
+
+  .text-font {
+    font-family: 'Coming Soon', cursive;
+  }
